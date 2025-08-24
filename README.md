@@ -24,7 +24,7 @@ Turning bold visions into actionable, implementable solutions
 ## ⚙️ Tech Arsenal
 
 ### 🤖 Robotics & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![YOLOv10](https://img.shields.io/badge/YOLOv10-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=Espressif&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![YOLOv10](https://img.shields.io/badge/YOLOv10-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=Espressif&logoColor=white)
 
 ### 💻 Programming & Development
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,7 +69,7 @@ Real-time security monitoring
 
 ## 💭 Philosophy
 
-> "I believe that more than just googling to learn about things,the joy that comes from hearing about something from a friend or a certain group and then attempting to learn about it out of the sheer curiousity aroused by those around you is totally enigmatic & adds an element of fun to the experience."
+> "In the intersection of technology and humanity lies the future of innovation. Every algorithm I write, every robot I build, every story I tell - they're all threads in the tapestry of understanding what it means to be creatively human in a digital age."
 
 ## 🌐 Let's Connect
 
