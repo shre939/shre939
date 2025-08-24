@@ -63,7 +63,7 @@ I'm a **multi-passionate creator** who thrives at the intersection of technology
 ### 🤖 Automated Waste Segregation System
 *Intelligent waste sorting on conveyor belts*
 
-**Tech Stack:** Python, Computer Vision, IoT
+**Tech Stack:** Arduino, IoT
 **Impact:** Improving recycling efficiency through smart wet/dry and metal/non-metal categorization
 
 [![Repo](https://img.shields.io/badge/View%20Code-8B7EC8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shre939/Automated-Waste-Segregation-System)
@@ -154,7 +154,6 @@ print(shreya.get_motivation())
 
 *"I believe that more than just googling to learn about things,the joy that comes from hearing about something from a friend or a certain group and then attempting to learn about it out of the sheer curiousity aroused by those around you is totally enigmatic & adds an element of fun to the experience."*
 
-**— Shreya Sanjay**
 
 </div>
 
@@ -164,8 +163,6 @@ print(shreya.get_motivation())
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shre939&label=Profile%20views&color=8B7EC8&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/shre939.svg?style=social&label=Follow&maxAge=2592000&color=8B7EC8)](https://github.com/shre939?tab=followers)
-
-**✨ "Curiosity is my compass, creativity is my fuel, and code is my canvas" ✨**
 
 </div>
 
