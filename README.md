@@ -142,7 +142,7 @@ print(shreya.get_motivation())
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6A5ACD)](https://github.com/shre939)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=7B68EE)](https://linkedin.com/in/shreya-sanjay)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8B7EC8)](mailto:shreyasanjay@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&color=9370DB)](https://shreya-portfolio.com)
+
 
 </div>
 
